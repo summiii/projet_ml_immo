@@ -1,0 +1,18 @@
+# Environnement Python
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# ML experiments
+mlruns/
+mlartifacts/
+
+# Secrets and environment variables
+.env
+
